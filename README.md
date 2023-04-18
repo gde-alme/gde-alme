@@ -25,6 +25,10 @@
 	<a href="https://github.com/zet1r/42-minishell">Minishell</a>
 	<a>| Shell Implementation</a>
 	<br>
+	<a>● <a/>
+	<a href="https://github.com/gde-alme/push_swap">Push_swap</a>
+	<a>| Sorting Algorithms</a>
+	<br>
 </p>
 
 <p align="center">
