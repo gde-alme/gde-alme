@@ -6,10 +6,12 @@
 
 <p align="center">
 	<a>My </a>
-	<a href="https://github.com/gde-alme/vimrc">[vimrc config]</a>
+	<a href="https://github.com/gde-alme/vimrc">vimrc config</a>
 	<br>
+	<a>42</a>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<br>
+	<a>42</a>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster</a>
 	<br>
 </p>
