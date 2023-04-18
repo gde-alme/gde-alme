@@ -6,8 +6,11 @@
 
 <p align="center">
 	<a href="https://github.com/gde-alme/vimrc">vimrc config</a>
+	<br>
 	<a href="https://github.com/gde-alme/CPP-modules">vimrc config</a>
+	<br>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster</a>
+	<br>
 </p>
 
 <p align="center">
