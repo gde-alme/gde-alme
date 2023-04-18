@@ -14,7 +14,8 @@
 	<img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
 	<br>
 	<a>● <a/>
-	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules -> C++ Piscine</a>
+	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
+	<a> -> C++ Piscine</a>
 	<br>
 	<a>● <a/>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster -> Raycasting</a>
