@@ -14,13 +14,13 @@
 	<img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
 	<br>
 	<a>● <a/>
-	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
+	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules -> C++ Piscine</a>
 	<br>
 	<a>● <a/>
-	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster</a>
+	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster -> Raycasting</a>
 	<br>
 	<a>● <a/>
-	<a href="https://github.com/zet1r/42-minishell">Minishell-Shell Implementation</a>
+	<a href="https://github.com/zet1r/42-minishell">Minishell -> Shell Implementation</a>
 	<br>
 </p>
 
