@@ -13,13 +13,13 @@
 	<br>
 	<img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
 	<br>
-	<a>● [42] <a/>
+	<a>● <a/>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<br>
-	<a>● [42] <a/>
+	<a>● <a/>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster</a>
 	<br>
-	<a>● [42] <a/>
+	<a>● <a/>
 	<a href="https://github.com/zet1r/42-minishell">Minishell-Shell Implementation</a>
 	<br>
 </p>
