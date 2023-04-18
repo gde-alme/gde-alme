@@ -19,11 +19,11 @@
 	<br>
 	<a>● <a/>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster</a>
-	<a>Raycasting</a>
+	<a>| Raycasting</a>
 	<br>
 	<a>● <a/>
 	<a href="https://github.com/zet1r/42-minishell">Minishell</a>
-	<a>Shell Implementation</a>
+	<a>| Shell Implementation</a>
 	<br>
 </p>
 
