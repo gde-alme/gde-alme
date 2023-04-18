@@ -15,7 +15,7 @@
 	<br>
 	<a>● <a/>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
-	<a> -> C++ Piscine</a>
+	<a> | C++ Piscine</a>
 	<br>
 	<a>● <a/>
 	<a href="https://github.com/gde-alme/cub3d-Raycaster">cub3D-Raycaster -> Raycasting</a>
