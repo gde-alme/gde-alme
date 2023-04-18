@@ -11,7 +11,7 @@
 	<a>● </a>
 	<a href="https://github.com/gde-alme/Makefile">C/C++ Makefile</a>
 	<br>
-	<img src="https://i.ibb.co/qsy78cm/42-Lisboa-25.png" alt="42-Lisboa-25" border="0">
+	<img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
 	<a>● [42] <a/>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<br>
