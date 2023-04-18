@@ -8,7 +8,7 @@
 	<a>My </a>
 	<a href="https://github.com/gde-alme/vimrc">vimrc config</a>
 	<br>
-	<a>42</a>
+	<img src="https://i.ibb.co/J5BwkDk/42-Logo-25.png" alt="42-Logo-25" border="0">
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<br>
 	<a>42</a>
