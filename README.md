@@ -13,7 +13,8 @@
 	<br>
 	<a href="https://www.42lisboa.com/"><img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
 	<br>
-		<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliujye7v004508lcl4y3v85q/stats?cursusId=21&coalitionId=110" alt="gde-alme's 42 stats" /></a>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliujye7v004508lcl4y3v85q/stats?cursusId=21&coalitionId=110" alt="gde-alme's 42 stats" /></a>
+	<br>
 	<a>● <a/>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<a> | C++ Piscine</a>
