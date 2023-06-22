@@ -16,6 +16,7 @@
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliujye7v004508lcl4y3v85q/stats?cursusId=21&coalitionId=110" alt="gde-alme's 42 stats" /></a>
 	<br>
 	<a>● <a/>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliujye7v004508lcl4y3v85q/project/3065394" alt="gde-alme's 42 CPP Module 09 Score" /></a>
 	<a href="https://github.com/gde-alme/CPP-modules">CPP Modules</a>
 	<a> | C++ Piscine</a>
 	<br>
