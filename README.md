@@ -32,7 +32,7 @@
 	<a>| Shell Implementation</a>
 	<br>
 	<a>● <a/>
-	<a href="https://github.com/gde-alme/inception">Minishell</a>
+	<a href="https://github.com/gde-alme/inception">Inception</a>
 	<a>| MariaDB , nginx and wordpress using docker</a>
 	<br>
 </p>
