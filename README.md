@@ -47,15 +47,13 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 ---
 
 ## 🌐 Public Work
-- **[AwesomeApp](https://github.com/YourUsername/AwesomeApp)**: A mobile app that makes your life awesome. 📱
-- **[DataVizTool](https://github.com/YourUsername/DataVizTool)**: A tool for amazing data visualizations. 📊
-- **[YourBlog](https://github.com/YourUsername/YourBlog)**: A minimalistic blog built with Gatsby. ✍️
-- **[OpenSourceContribution](https://github.com/YourUsername/OpenSourceContribution)**: Contributing to the open-source community. 🌍
+
+---
 
 ## 🎓 42 Work
 - **[Libft](https://github.com/YourUsername/Libft)**: My implementation of some of the Standard C Library functions. 📚
-- **[42cursus-ft_printf](https://github.com/YourUsername/42cursus-ft_printf)**: A simplified printf function clone. 🖨️
-- **[Get_Next_Line](https://github.com/YourUsername/Get_Next_Line)**: A function to read lines from a file descriptor. 📖
+- **[minishell](https://github.com/YourUsername/42cursus-ft_printf)**: A simplified printf function clone. 🖨️
+- **[Cub3D](https://github.com/YourUsername/Get_Next_Line)**: A function to read lines from a file descriptor. 📖
 - **[Inception](https://github.com/gde-alme/inception.git)**: Wordpress installation in docker with mariadb and nginx in seperate dockers. 💡
 
 ---
