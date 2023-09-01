@@ -42,5 +42,3 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 - Email: goncalopes98@gmail.com
 
 ---
-
-⭐️ From [gde-alme](https://github.com/gde-alme)
