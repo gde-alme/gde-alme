@@ -17,10 +17,6 @@
 	<br>
 </p>
 
-<p align="center">
-<img src="https://i.ibb.co/YR2p9jP/assin.png" alt="assin" border="0">
-</p>
-
 I'm a passionate developer who loves to explore new technologies and build cool stuff. Here you'll find a mix of my public projects and some work I've done during my time at 42 School. Enjoy browsing!
 
 ---
@@ -42,3 +38,7 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 - Email: goncalopes98@gmail.com
 
 ---
+
+<p align="center">
+<img src="https://i.ibb.co/YR2p9jP/assin.png" alt="assin" border="0">
+</p>
