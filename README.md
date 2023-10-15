@@ -22,10 +22,10 @@
 
 ## 🎓 42 Work
 - **[C++ piscine](https://github.com/gde-alme/CPP-modules)**: Compilation of 9 C++98 modules.
-- **[minishell](https://github.com/zet1r/42-minishell)**: A simplified shell clone. 
-- **[Cub3D](https://github.com/gde-alme/cub3d-Raycaster)**: A simple game written in C using ray casting.
-- **[Inception](https://github.com/gde-alme/inception.git)**: Wordpress with mariadb and nginx in docker.
-
+- **[minishell](https://github.com/zet1r/42-minishell)**: Simplified shell implementation. 
+- **[Cub3D](https://github.com/gde-alme/cub3d-Raycaster)**: Simple game written in C using ray casting.
+- **[Inception](https://github.com/gde-alme/inception)**: Wordpress with mariadb and nginx in docker.
+- **[Webserv](https://github.com/gde-alme/webserv)**: C++98 webserver with fast cgi and cookies.
 ---
 
 📬 **Get in Touch**
