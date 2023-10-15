@@ -21,7 +21,6 @@
 ---
 
 ## 🎓 42 Work
-- **[Push swap](https://github.com/gde-alme/push_swap)**: Sorting algorithm implemenation in C.
 - **[Minishell](https://github.com/zet1r/42-minishell)**: Bash clone in C. 
 - **[C++ piscine](https://github.com/gde-alme/CPP-modules)**: Compilation of 9 C++98 modules.
 - **[Cub3D](https://github.com/gde-alme/cub3d-Raycaster)**: A wolfenstein 3d look alike game in C using ray casting.
