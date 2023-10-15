@@ -26,10 +26,10 @@ I'm a passionate developer
 ---
 
 ## 🎓 42 Work
-- **[C++ piscine](https://github.com/gde-alme/CPP-modules)**: Implementation of some C++98 functions and programs. 📚
-- **[minishell](https://github.com/zet1r/42-minishell)**: A simplified shell clone. 🖨️
-- **[Cub3D](https://github.com/gde-alme/cub3d-Raycaster)**: A simple game written in C using ray casting. 📖
-- **[Inception](https://github.com/gde-alme/inception.git)**: Wordpress installation in docker with mariadb and nginx in seperate dockers. 💡
+- **[C++ piscine](https://github.com/gde-alme/CPP-modules)**: Compilation of 9 C++98 modules.
+- **[minishell](https://github.com/zet1r/42-minishell)**: A simplified shell clone. 
+- **[Cub3D](https://github.com/gde-alme/cub3d-Raycaster)**: A simple game written in C using ray casting.
+- **[Inception](https://github.com/gde-alme/inception.git)**: Wordpress with mariadb and nginx in docker.
 
 ---
 
