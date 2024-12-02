@@ -7,10 +7,9 @@
 	<h4> 🛠️ Professionally working with PHP, Javascript, MySQL & Python. </h4>
 	<h4> 🚀 Strong interest in AI / AGI. </h4>
 	<h4> 🔭 Sharpening skills in math and Python for Data Science and AGI, while staying loyal to JavaScript supremacy. </h4>
- 	<br>
 	<h4> ☕ Coffee and code </h4>
- </p>
-
+</p>
+<br>
 ## 🌟 Tech Stack
 
 ### **Languages**
