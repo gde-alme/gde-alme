@@ -58,6 +58,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB Cloud](https://img.shields.io/badge/mongodb%20cloud-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-%230A65CC.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ### **Development Tools**
 ![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -67,27 +69,23 @@
 ![MySQL Workbench](https://img.shields.io/badge/mysql%20workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Developer Tools](https://img.shields.io/badge/developer%20tools-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)  
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white)  
+![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Developer Tools](https://img.shields.io/badge/developer%20tools-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ### **Methodologies**  
 ![Scrum](https://img.shields.io/badge/scrum-%23006699.svg?style=for-the-badge&logo=agile&logoColor=white)
+![OPSEC](https://img.shields.io/badge/opsec-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white)
 
 ## 🎓 42 Work
-- **[Minishell](https://github.com/zet1r/42-minishell)**: Bash clone in C. 
-- **[C++ piscine](https://github.com/gde-alme/42/CPP-modules)**: Compilation of 9 C++98 modules.
-- **[Cub3D](https://github.com/gde-alme/42/cub3d-Raycaster)**: A wolfenstein 3d look alike game in C using ray casting.
-- **[Inception](https://github.com/gde-alme/42/inception)**: Wordpress with mariadb and nginx in docker using multiple containers.
-- **[Webserv](https://github.com/gde-alme/42/webserv)**: C++98 webserver with fast cgi and cookies.
+- **[Minishell](https://github.com/gde-alme/42-Common-core/tree/main/minishell)**: Bash clone in C. 
+- **[C++ piscine](https://github.com/gde-alme/42-Common-core/tree/main/cpp-modules)**: Compilation of 9 C++98 modules.
+- **[Cub3D](https://github.com/gde-alme/42-Common-core/tree/main/cub3d)**: A wolfenstein 3d look alike game in C using ray casting.
+- **[Inception](https://github.com/gde-alme/42-Common-core/tree/main/inception)**: Wordpress with mariadb and nginx in docker using multiple containers.
+- **[Webserv](https://github.com/gde-alme/42-Common-core/tree/main/webserver)**: C++98 webserver with fast cgi and cookies.
   
 ---
 
 📬 **Get in Touch**
 - Email: goncalopesmail@gmail.com
 
----
-
-<p align="center">
-<img src="https://i.ibb.co/YR2p9jP/assin.png" alt="assin" border="0">
-</p>
