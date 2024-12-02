@@ -76,7 +76,7 @@
 ![Scrum](https://img.shields.io/badge/scrum-%23006699.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![OPSEC](https://img.shields.io/badge/opsec-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white)
 
-## 🎓 42 Work
+## 🎓 42 Common core
 - **[Minishell](https://github.com/gde-alme/42-Common-core/tree/main/minishell)**: Bash clone in C. 
 - **[C++ piscine](https://github.com/gde-alme/42-Common-core/tree/main/cpp-modules)**: Compilation of 9 C++98 modules.
 - **[Cub3D](https://github.com/gde-alme/42-Common-core/tree/main/cub3d)**: A wolfenstein 3d look alike game in C using ray casting.
