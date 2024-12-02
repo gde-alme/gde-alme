@@ -70,7 +70,6 @@
 ![Developer Tools](https://img.shields.io/badge/developer%20tools-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
-![Developer Tools](https://img.shields.io/badge/developer%20tools-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ### **Methodologies**  
 ![Scrum](https://img.shields.io/badge/scrum-%23006699.svg?style=for-the-badge&logo=agile&logoColor=white)
