@@ -3,8 +3,8 @@
 
 <p align="center">
 	<a href="https://www.42lisboa.com/"><img src="https://i.ibb.co/QDS169b/42lisboa.png" alt="42lisboa" border="0">
-	<h4> 💻 Software developer </h4>
-	<h4> 🛠️ Professionally working with PHP, Javascript, MySQL & Python. </h4>
+	<h4> 💻 Software engineer </h4>
+	<h4> 🛠️ Professionally working with NextJS, React, Typescript & Javascript, PHP, MySQL & PostGreSQL and Python. </h4>
 	<h4> 🚀 Strong interest in AI / AGI. </h4>
 	<h4> 🔭 Sharpening skills in math and Python for Data Science and AGI, while staying loyal to JavaScript supremacy. </h4>
 	<h4> ☕ Coffee and code </h4>
